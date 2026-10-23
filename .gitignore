@@ -10,7 +10,8 @@ coverage/
 /inspection/vendor/*.tgz
 
 # Local browser captures (curated preparation images remain versioned)
-/2026-mercedes-w17/cinematic/evidence/
+/2026-mercedes-w17/cinematic/evidence/*
+!/2026-mercedes-w17/cinematic/evidence/v6-verification.json
 /inspection/evidence/
 
 # Temporary files, local settings, and credentials

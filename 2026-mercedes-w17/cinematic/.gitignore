@@ -1,4 +1,5 @@
 node_modules/
 dist/
 .pnpm-store/
-evidence/
+evidence/*
+!evidence/v6-verification.json
