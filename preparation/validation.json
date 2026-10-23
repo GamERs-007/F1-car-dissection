@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "sourceSha256": "1d274f08d532e60826a7de5a93ccef7ddabe0b3377cca243679adb46e841a8d8",
+  "outputSha256": "43efe13d0af815b91d879f5befa9135c5dcc58e790792bc153ab544fc682ac7f",
+  "triangles": 267698,
+  "everySourceTriangleExactlyOnce": true,
+  "triangleWindingPreserved": true,
+  "positionNormalUvBytesIdentical": true,
+  "materialsTexturesSamplersIdentical": true,
+  "embeddedImagesByteIdentical": 33,
+  "maximumAssembledWorldVertexError": 0,
+  "progressSamples": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1,
+    0.5,
+    0
+  ],
+  "roundTripTransformsExact": true,
+  "originalFilesUnchanged": 29,
+  "componentCount": 12,
+  "manualReviewPatches": 161,
+  "manualReviewTriangles": 45133
+}

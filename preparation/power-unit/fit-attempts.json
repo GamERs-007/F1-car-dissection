@@ -1,0 +1,1082 @@
+[
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.36,
+      -0.96
+    ],
+    "intersections": 450
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.36,
+      -0.91
+    ],
+    "intersections": 372
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.36,
+      -1.01
+    ],
+    "intersections": 1030
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.36,
+      -0.86
+    ],
+    "intersections": 491
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.39,
+      -0.96
+    ],
+    "intersections": 473
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.39,
+      -0.91
+    ],
+    "intersections": 258
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.39,
+      -1.01
+    ],
+    "intersections": 1021
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.39,
+      -0.86
+    ],
+    "intersections": 358
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.42,
+      -0.96
+    ],
+    "intersections": 496
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.42,
+      -0.91
+    ],
+    "intersections": 207
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.42,
+      -1.01
+    ],
+    "intersections": 1510
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.42,
+      -0.86
+    ],
+    "intersections": 262
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.45,
+      -0.96
+    ],
+    "intersections": 1124
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.45,
+      -0.91
+    ],
+    "intersections": 560
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.45,
+      -1.01
+    ],
+    "intersections": 2348
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.45,
+      -0.86
+    ],
+    "intersections": 300
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.33,
+      -0.96
+    ],
+    "intersections": 665
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.33,
+      -0.91
+    ],
+    "intersections": 470
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.33,
+      -1.01
+    ],
+    "intersections": 1078
+  },
+  {
+    "scale": 1,
+    "mount": [
+      0.0,
+      0.33,
+      -0.86
+    ],
+    "intersections": 536
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.36,
+      -0.96
+    ],
+    "intersections": 451
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.36,
+      -0.91
+    ],
+    "intersections": 298
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.36,
+      -1.01
+    ],
+    "intersections": 664
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.36,
+      -0.86
+    ],
+    "intersections": 539
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.39,
+      -0.96
+    ],
+    "intersections": 342
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.39,
+      -0.91
+    ],
+    "intersections": 215
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.39,
+      -1.01
+    ],
+    "intersections": 786
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.39,
+      -0.86
+    ],
+    "intersections": 411
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.42,
+      -0.96
+    ],
+    "intersections": 240
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.42,
+      -0.91
+    ],
+    "intersections": 95
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.42,
+      -1.01
+    ],
+    "intersections": 851
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.42,
+      -0.86
+    ],
+    "intersections": 321
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.45,
+      -0.96
+    ],
+    "intersections": 440
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.45,
+      -0.91
+    ],
+    "intersections": 130
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.45,
+      -1.01
+    ],
+    "intersections": 1433
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.45,
+      -0.86
+    ],
+    "intersections": 373
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.33,
+      -0.96
+    ],
+    "intersections": 649
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.33,
+      -0.91
+    ],
+    "intersections": 433
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.33,
+      -1.01
+    ],
+    "intersections": 964
+  },
+  {
+    "scale": 0.95,
+    "mount": [
+      0.0,
+      0.33,
+      -0.86
+    ],
+    "intersections": 509
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.36,
+      -0.96
+    ],
+    "intersections": 410
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.36,
+      -0.91
+    ],
+    "intersections": 318
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.36,
+      -1.01
+    ],
+    "intersections": 554
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.36,
+      -0.86
+    ],
+    "intersections": 256
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.39,
+      -0.96
+    ],
+    "intersections": 308
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.39,
+      -0.91
+    ],
+    "intersections": 268
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.39,
+      -1.01
+    ],
+    "intersections": 548
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.39,
+      -0.86
+    ],
+    "intersections": 187
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.42,
+      -0.96
+    ],
+    "intersections": 139
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.42,
+      -0.91
+    ],
+    "intersections": 121
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.42,
+      -1.01
+    ],
+    "intersections": 528
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.42,
+      -0.86
+    ],
+    "intersections": 126
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.45,
+      -0.96
+    ],
+    "intersections": 132
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.45,
+      -0.91
+    ],
+    "intersections": 82
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.45,
+      -1.01
+    ],
+    "intersections": 442
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.45,
+      -0.86
+    ],
+    "intersections": 99
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.33,
+      -0.96
+    ],
+    "intersections": 645
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.33,
+      -0.91
+    ],
+    "intersections": 474
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.33,
+      -1.01
+    ],
+    "intersections": 820
+  },
+  {
+    "scale": 0.9,
+    "mount": [
+      0.0,
+      0.33,
+      -0.86
+    ],
+    "intersections": 312
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.36,
+      -0.96
+    ],
+    "intersections": 384
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.36,
+      -0.91
+    ],
+    "intersections": 274
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.36,
+      -1.01
+    ],
+    "intersections": 530
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.36,
+      -0.86
+    ],
+    "intersections": 109
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.39,
+      -0.96
+    ],
+    "intersections": 310
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.39,
+      -0.91
+    ],
+    "intersections": 236
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.39,
+      -1.01
+    ],
+    "intersections": 435
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.39,
+      -0.86
+    ],
+    "intersections": 76
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.42,
+      -0.96
+    ],
+    "intersections": 120
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.42,
+      -0.91
+    ],
+    "intersections": 84
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.42,
+      -1.01
+    ],
+    "intersections": 367
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.42,
+      -0.86
+    ],
+    "intersections": 44
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.45,
+      -0.96
+    ],
+    "intersections": 36
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.45,
+      -0.91
+    ],
+    "intersections": 36
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.45,
+      -1.01
+    ],
+    "intersections": 214
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.45,
+      -0.86
+    ],
+    "intersections": 22
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.33,
+      -0.96
+    ],
+    "intersections": 605
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.33,
+      -0.91
+    ],
+    "intersections": 457
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.33,
+      -1.01
+    ],
+    "intersections": 767
+  },
+  {
+    "scale": 0.85,
+    "mount": [
+      0.0,
+      0.33,
+      -0.86
+    ],
+    "intersections": 189
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.36,
+      -0.96
+    ],
+    "intersections": 376
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.36,
+      -0.91
+    ],
+    "intersections": 256
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.36,
+      -1.01
+    ],
+    "intersections": 451
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.36,
+      -0.86
+    ],
+    "intersections": 108
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.39,
+      -0.96
+    ],
+    "intersections": 240
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.39,
+      -0.91
+    ],
+    "intersections": 194
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.39,
+      -1.01
+    ],
+    "intersections": 307
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.39,
+      -0.86
+    ],
+    "intersections": 75
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.42,
+      -0.96
+    ],
+    "intersections": 115
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.42,
+      -0.91
+    ],
+    "intersections": 75
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.42,
+      -1.01
+    ],
+    "intersections": 258
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.42,
+      -0.86
+    ],
+    "intersections": 56
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.45,
+      -0.96
+    ],
+    "intersections": 29
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.45,
+      -0.91
+    ],
+    "intersections": 29
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.45,
+      -1.01
+    ],
+    "intersections": 51
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.45,
+      -0.86
+    ],
+    "intersections": 44
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.33,
+      -0.96
+    ],
+    "intersections": 584
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.33,
+      -0.91
+    ],
+    "intersections": 407
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.33,
+      -1.01
+    ],
+    "intersections": 617
+  },
+  {
+    "scale": 0.8,
+    "mount": [
+      0.0,
+      0.33,
+      -0.86
+    ],
+    "intersections": 116
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.36,
+      -0.96
+    ],
+    "intersections": 371
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.36,
+      -0.91
+    ],
+    "intersections": 193
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.36,
+      -1.01
+    ],
+    "intersections": 494
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.36,
+      -0.86
+    ],
+    "intersections": 82
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.39,
+      -0.96
+    ],
+    "intersections": 249
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.39,
+      -0.91
+    ],
+    "intersections": 189
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.39,
+      -1.01
+    ],
+    "intersections": 297
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.39,
+      -0.86
+    ],
+    "intersections": 37
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.42,
+      -0.96
+    ],
+    "intersections": 101
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.42,
+      -0.91
+    ],
+    "intersections": 69
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.42,
+      -1.01
+    ],
+    "intersections": 203
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.42,
+      -0.86
+    ],
+    "intersections": 34
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.45,
+      -0.96
+    ],
+    "intersections": 25
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.45,
+      -0.91
+    ],
+    "intersections": 25
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.45,
+      -1.01
+    ],
+    "intersections": 38
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.45,
+      -0.86
+    ],
+    "intersections": 26
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.33,
+      -0.96
+    ],
+    "intersections": 482
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.33,
+      -0.91
+    ],
+    "intersections": 339
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.33,
+      -1.01
+    ],
+    "intersections": 527
+  },
+  {
+    "scale": 0.75,
+    "mount": [
+      0.0,
+      0.33,
+      -0.86
+    ],
+    "intersections": 78
+  }
+]

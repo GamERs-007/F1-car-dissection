@@ -1,0 +1,30 @@
+/* Component study refinements preserve the existing cinematic stage. */
+.focus{top:25vh;max-width:min(32vw,420px)}
+.focus h1{font-family:Arial,Helvetica,sans-serif;font-size:clamp(36px,4.2vw,68px);font-weight:800;line-height:1.02;letter-spacing:-.045em}
+.focus h1:before{display:none}
+.focus .description{font-size:14px;line-height:1.75;max-width:335px;margin-top:22px;color:#c0ced0}
+.focus .eyebrow{font-size:9px;margin-bottom:18px;color:#75aaa5}
+.technical-callout{margin-top:24px;padding:12px 0 0 14px;border-left:2px solid #00d2be;max-width:310px;background:linear-gradient(90deg,#062322aa,transparent)}
+.technical-callout>span{font:8px 'Courier New',monospace;letter-spacing:2px;color:#75a8a4}
+.technical-callout p{font:11px/1.6 'Courier New',monospace;color:#b6ede5;margin:8px 0}
+.technical-callout small{display:block;font:8px/1.5 'Courier New',monospace;color:#71928f;padding-bottom:10px}
+.model-note{max-width:310px;color:#869da1;line-height:1.5}
+.chapters{top:50%;transform:translateY(-50%);gap:0;max-height:calc(100dvh - 180px);overflow-y:auto;scrollbar-width:thin;padding:6px 5px}
+.chapters button{min-height:31px;padding:3px 0;gap:12px}
+.chapters i{height:10px;transition:background .2s,height .2s}.chapters .active i{height:20px}
+.chapter-name{max-width:150px;text-align:right;line-height:1.4}.chapters .active .chapter-name{opacity:1}
+.component-index{position:fixed;bottom:14vh;left:7vw;z-index:5;font:9px 'Courier New',monospace;letter-spacing:1.5px;color:#00d2be}
+.component-index span{display:block;margin-top:10px;font-size:8px;color:#647e83;letter-spacing:1px}
+@media(max-width:1000px){.focus{max-width:36vw}.focus .description{font-size:12px}.focus h1{font-size:40px}.chapters{right:2.5vw}.chapter-name{display:none}}
+@media(max-width:800px){.focus{top:15vh;left:7vw;max-width:77vw}.focus h1{font-size:clamp(28px,7vw,42px)}.focus .eyebrow{font-size:8px;margin-bottom:10px}.focus .description{font-size:12px;line-height:1.55;max-width:360px;margin-top:14px}.technical-callout{margin-top:13px;max-width:300px;padding-top:5px}.technical-callout p{font-size:9px;margin:4px 0}.technical-callout small{font-size:7px;padding-bottom:5px}.chapters{right:3vw;top:54%;max-height:calc(100dvh - 190px)}.chapters button{min-height:27px;gap:7px}.component-index{bottom:13vh;font-size:8px}.annotation{display:none}.focus-shade{background:linear-gradient(180deg,#010405dc 8%,#010405a0 36%,transparent 61%)}.model-note{font-size:8px;max-width:320px;margin-top:8px}}
+@media(max-height:650px) and (min-width:801px){.focus{top:18vh}.focus h1{font-size:36px}.focus .description{font-size:12px;margin-top:12px}.technical-callout{margin-top:12px}.component-index{bottom:12vh}.chapters button{min-height:25px}}
+.hero h1{font-size:clamp(24px,6.8vw,112px)}
+.hero h1 .hero-title-line{display:flex;align-items:center;gap:.08em;white-space:nowrap}
+.hero-amg-logo{display:block;width:5em;height:auto;flex:none;filter:brightness(0) invert(1)}
+.engine-controls{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px;pointer-events:auto;max-width:310px}
+.engine-controls button{font:9px 'Courier New',monospace;letter-spacing:1px;border:1px solid #42625e;padding:9px 12px;background:#07202288}
+.engine-controls button[aria-pressed=true]{border-color:#00d2be;color:#00d2be}
+.engine-controls small{flex-basis:100%;font:8px 'Courier New',monospace;letter-spacing:1px;color:#7faaa6}
+.engine-part-label{position:fixed;right:7vw;bottom:145px;z-index:9;padding:9px 13px;background:#072022e8;border-left:2px solid #00d2be;font:10px 'Courier New',monospace;color:#c0f5e9;pointer-events:none}
+@media(max-width:800px){.engine-controls{margin-top:10px;gap:7px}.engine-controls button{padding:7px 9px;font-size:8px}.engine-part-label{font-size:9px;bottom:132px;max-width:75vw}}
+@media(max-aspect-ratio:5/4){.engine-study{top:15vh;max-width:77vw}.engine-study h1{font-size:32px}.engine-study .description{font-size:12px;line-height:1.55;margin-top:14px;max-width:400px}.engine-study .technical-callout{margin-top:12px;padding-top:5px}.engine-study .technical-callout p{font-size:9px;margin:4px 0}.engine-study .technical-callout small{font-size:7px;padding-bottom:5px}.engine-study .model-note{font-size:8px;margin-top:8px}.engine-study .engine-controls{margin-top:10px}.engine-study .engine-controls button{padding:7px 9px}}

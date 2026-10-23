@@ -1,0 +1,1 @@
+export const motion={progress:0,reduced:false,hover:null,selected:null,listeners:new Set(),set(p){this.progress=p;for(const f of this.listeners)f();},subscribe(f){this.listeners.add(f);return()=>this.listeners.delete(f);}};

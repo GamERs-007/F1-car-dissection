@@ -1,0 +1,12 @@
+{
+  "sourceSha256": "1d274f08d532e60826a7de5a93ccef7ddabe0b3377cca243679adb46e841a8d8",
+  "outputSha256": "43efe13d0af815b91d879f5befa9135c5dcc58e790792bc153ab544fc682ac7f",
+  "triangles": 267698,
+  "everySourceTriangleAssignedExactlyOnce": true,
+  "attributeElementsCopiedByteForByte": 585483,
+  "materialsPreservedVerbatim": true,
+  "texturesPreservedVerbatim": true,
+  "embeddedImages": 33,
+  "components": 12,
+  "outputBytes": 40134564
+}

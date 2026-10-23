@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>W17 primitive reference atlas</title><style>body{margin:12px;background:#111a21;color:#e3edf2;font:13px system-ui}main{display:grid;grid-template-columns:1fr 1fr;gap:8px}figure{margin:0}img{width:100%;display:block}figcaption{padding:6px}h1{font-size:18px}a{color:#6ce0d1}</style><script type="importmap">{"imports":{"three":"./vendor/three/build/three.module.js","three/addons/":"./vendor/three/examples/jsm/"}}</script></head><body><h1>Material primitive reference atlas</h1><p id="status">Loading…</p><p><a href="?part=0">P0–P9</a> · <a href="?part=1">P10–P19</a> · <a href="?part=2">P20–P28</a> · <a href="index.html">Interactive inspector</a></p><main></main><script type="module">
+import * as T from 'three';import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
+const renderer=new T.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});renderer.setSize(520,380);renderer.setPixelRatio(1);
+const scene=new T.Scene();scene.background=new T.Color('#23313a');scene.add(new T.HemisphereLight(0xffffff,0x8b9aa6,3));const light=new T.DirectionalLight(0xffffff,3);light.position.set(4,6,4);scene.add(light);
+const gltf=await new GLTFLoader().loadAsync('../2026-mercedes-w17/source/f1_2026_w17.glb');scene.add(gltf.scene);gltf.scene.updateMatrixWorld(true);const meshes=[];gltf.scene.traverse(o=>{if(o.isMesh)meshes.push(o);});
+const part=Number(new URLSearchParams(location.search).get('part')||0), start=part*10;
+const entries=part===3?[[0,[1,0.5,0],false],[0,[-1,0.5,-1],false],[0,[0,1,0.001],false],[0,[1,0.5,0],true],[2,[1,0.75,1],true],[4,[1,0.75,1],true],[3,[1,0.75,-1],true]]:Array.from({length:Math.min(10,meshes.length-start)},(_,k)=>[start+k,[1,0.75,1],false]);
+for(const [i,direction,clay] of entries){
+ for(let k=0;k<meshes.length;k++)meshes[k].visible=k===i;
+ const b=new T.Box3().setFromObject(meshes[i]),c=b.getCenter(new T.Vector3()),r=b.getSize(new T.Vector3()).length()/2;
+ const original=meshes[i].material;if(clay)meshes[i].material=new T.MeshStandardMaterial({color:0xb6c9ce,roughness:0.8,side:T.DoubleSide});
+ const cam=new T.PerspectiveCamera(35,520/380,0.001,100);cam.position.copy(c).add(new T.Vector3(...direction).normalize().multiplyScalar(r/Math.sin(T.MathUtils.degToRad(17.5))*1.08));cam.lookAt(c);renderer.render(scene,cam);
+ const fig=document.createElement('figure'),img=document.createElement('img'),cap=document.createElement('figcaption');img.src=renderer.domElement.toDataURL('image/png');img.alt=`P${i} ${original.name}${clay?' · neutral material':''}`;cap.textContent=img.alt;fig.append(img,cap);document.querySelector('main').append(fig);meshes[i].material=original;
+}
+document.getElementById('status').textContent='Original geometry and materials · each primitive fitted independently';renderer.dispose();
+</script></body></html>

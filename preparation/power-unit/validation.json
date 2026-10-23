@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "bytes": 662988,
+  "sha256": "40d524cabb3251c75fa314a2f336016bd43abb2062152a46a8c6c1e591281db9",
+  "triangles": 31472,
+  "drawMeshes": 41,
+  "materials": 8,
+  "extraTextures": 0,
+  "subassemblies": 12,
+  "sourceAndPreparedGlbUnchanged": true,
+  "legacyMaskedTriangles": 5240,
+  "absoluteAnimationRoundTripExact": true,
+  "forwardReverseSamplesIdentical": true,
+  "manualDetailRoundTripExact": true,
+  "samples": [
+    0,
+    0.15,
+    0.45,
+    0.53,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1,
+    0.9,
+    0.7,
+    0.45,
+    0
+  ]
+}

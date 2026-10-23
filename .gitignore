@@ -1,0 +1,29 @@
+# Dependencies, package caches, and generated builds
+node_modules/
+.pnpm-store/
+dist/
+.vite/
+coverage/
+
+# Local Blender installation and downloaded archives
+/preparation/tools/
+/inspection/vendor/*.tgz
+
+# Local browser captures (curated preparation images remain versioned)
+/2026-mercedes-w17/cinematic/evidence/
+/inspection/evidence/
+
+# Temporary files, local settings, and credentials
+*.log
+*.tmp
+*.blend1
+*.blend2
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

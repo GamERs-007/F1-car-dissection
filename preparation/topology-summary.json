@@ -1,0 +1,176 @@
+[
+  {
+    "primitive": 0,
+    "triangles": 10854,
+    "indexedIslands": 899,
+    "weldedIslands": 239
+  },
+  {
+    "primitive": 1,
+    "triangles": 7265,
+    "indexedIslands": 103,
+    "weldedIslands": 75
+  },
+  {
+    "primitive": 2,
+    "triangles": 60127,
+    "indexedIslands": 724,
+    "weldedIslands": 73
+  },
+  {
+    "primitive": 3,
+    "triangles": 12017,
+    "indexedIslands": 432,
+    "weldedIslands": 233
+  },
+  {
+    "primitive": 4,
+    "triangles": 48633,
+    "indexedIslands": 823,
+    "weldedIslands": 92
+  },
+  {
+    "primitive": 5,
+    "triangles": 858,
+    "indexedIslands": 16,
+    "weldedIslands": 7
+  },
+  {
+    "primitive": 6,
+    "triangles": 246,
+    "indexedIslands": 8,
+    "weldedIslands": 6
+  },
+  {
+    "primitive": 7,
+    "triangles": 48,
+    "indexedIslands": 1,
+    "weldedIslands": 1
+  },
+  {
+    "primitive": 8,
+    "triangles": 32211,
+    "indexedIslands": 340,
+    "weldedIslands": 24
+  },
+  {
+    "primitive": 9,
+    "triangles": 6998,
+    "indexedIslands": 9,
+    "weldedIslands": 4
+  },
+  {
+    "primitive": 10,
+    "triangles": 48,
+    "indexedIslands": 1,
+    "weldedIslands": 1
+  },
+  {
+    "primitive": 11,
+    "triangles": 27242,
+    "indexedIslands": 1224,
+    "weldedIslands": 36
+  },
+  {
+    "primitive": 12,
+    "triangles": 40,
+    "indexedIslands": 4,
+    "weldedIslands": 4
+  },
+  {
+    "primitive": 13,
+    "triangles": 3990,
+    "indexedIslands": 24,
+    "weldedIslands": 6
+  },
+  {
+    "primitive": 14,
+    "triangles": 15050,
+    "indexedIslands": 12,
+    "weldedIslands": 4
+  },
+  {
+    "primitive": 15,
+    "triangles": 4452,
+    "indexedIslands": 346,
+    "weldedIslands": 17
+  },
+  {
+    "primitive": 16,
+    "triangles": 12760,
+    "indexedIslands": 267,
+    "weldedIslands": 17
+  },
+  {
+    "primitive": 17,
+    "triangles": 321,
+    "indexedIslands": 3,
+    "weldedIslands": 3
+  },
+  {
+    "primitive": 18,
+    "triangles": 2081,
+    "indexedIslands": 44,
+    "weldedIslands": 4
+  },
+  {
+    "primitive": 19,
+    "triangles": 11532,
+    "indexedIslands": 782,
+    "weldedIslands": 98
+  },
+  {
+    "primitive": 20,
+    "triangles": 2638,
+    "indexedIslands": 325,
+    "weldedIslands": 85
+  },
+  {
+    "primitive": 21,
+    "triangles": 7855,
+    "indexedIslands": 600,
+    "weldedIslands": 14
+  },
+  {
+    "primitive": 22,
+    "triangles": 168,
+    "indexedIslands": 12,
+    "weldedIslands": 12
+  },
+  {
+    "primitive": 23,
+    "triangles": 32,
+    "indexedIslands": 4,
+    "weldedIslands": 2
+  },
+  {
+    "primitive": 24,
+    "triangles": 4,
+    "indexedIslands": 2,
+    "weldedIslands": 1
+  },
+  {
+    "primitive": 25,
+    "triangles": 12,
+    "indexedIslands": 8,
+    "weldedIslands": 3
+  },
+  {
+    "primitive": 26,
+    "triangles": 72,
+    "indexedIslands": 38,
+    "weldedIslands": 3
+  },
+  {
+    "primitive": 27,
+    "triangles": 84,
+    "indexedIslands": 46,
+    "weldedIslands": 8
+  },
+  {
+    "primitive": 28,
+    "triangles": 60,
+    "indexedIslands": 30,
+    "weldedIslands": 30
+  }
+]

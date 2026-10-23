@@ -1,0 +1,1079 @@
+{
+  "assembledTriangleIntersectionsWithRetainedCar": 0,
+  "scale": 0.85,
+  "mount": [
+    0.0,
+    0.45,
+    -0.96
+  ],
+  "bounds": {
+    "min": [
+      -0.2514403611421585,
+      0.20775000000000005,
+      -1.34221834897995
+    ],
+    "max": [
+      0.2514403611421585,
+      0.7157440096139908,
+      -0.7517499959468841
+    ]
+  },
+  "legacyPatchesSuppressedInEnhancedView": 625,
+  "legacyTriangles": 5240,
+  "attempts": [
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.42,
+        -1.01
+      ],
+      "intersections": 1430
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.42,
+        -1.06
+      ],
+      "intersections": 3155
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.42,
+        -0.96
+      ],
+      "intersections": 416
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.42,
+        -1.11
+      ],
+      "intersections": 3850
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.42,
+        -0.91
+      ],
+      "intersections": 139
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.42,
+        -0.86
+      ],
+      "intersections": 286
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.45,
+        -1.01
+      ],
+      "intersections": 2280
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.45,
+        -1.06
+      ],
+      "intersections": 3125
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.45,
+        -0.96
+      ],
+      "intersections": 1056
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.45,
+        -1.11
+      ],
+      "intersections": 4688
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.45,
+        -0.91
+      ],
+      "intersections": 506
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.45,
+        -0.86
+      ],
+      "intersections": 324
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.48,
+        -1.01
+      ],
+      "intersections": 2805
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.48,
+        -1.06
+      ],
+      "intersections": 3468
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.48,
+        -0.96
+      ],
+      "intersections": 1955
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.48,
+        -1.11
+      ],
+      "intersections": 4854
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.48,
+        -0.91
+      ],
+      "intersections": 1282
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.48,
+        -0.86
+      ],
+      "intersections": 935
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.51,
+        -1.01
+      ],
+      "intersections": 3983
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.51,
+        -1.06
+      ],
+      "intersections": 4597
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.51,
+        -0.96
+      ],
+      "intersections": 3438
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.51,
+        -1.11
+      ],
+      "intersections": 4789
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.51,
+        -0.91
+      ],
+      "intersections": 2487
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.51,
+        -0.86
+      ],
+      "intersections": 2120
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.54,
+        -1.01
+      ],
+      "intersections": 4491
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.54,
+        -1.06
+      ],
+      "intersections": 4164
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.54,
+        -0.96
+      ],
+      "intersections": 3848
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.54,
+        -1.11
+      ],
+      "intersections": 4087
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.54,
+        -0.91
+      ],
+      "intersections": 3765
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.54,
+        -0.86
+      ],
+      "intersections": 3130
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.39,
+        -1.01
+      ],
+      "intersections": 970
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.39,
+        -1.06
+      ],
+      "intersections": 2050
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.39,
+        -0.96
+      ],
+      "intersections": 426
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.39,
+        -1.11
+      ],
+      "intersections": 3091
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.39,
+        -0.91
+      ],
+      "intersections": 205
+    },
+    {
+      "scale": 1,
+      "mount": [
+        0.0,
+        0.39,
+        -0.86
+      ],
+      "intersections": 451
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.42,
+        -1.01
+      ],
+      "intersections": 779
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.42,
+        -1.06
+      ],
+      "intersections": 1956
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.42,
+        -0.96
+      ],
+      "intersections": 168
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.42,
+        -1.11
+      ],
+      "intersections": 3422
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.42,
+        -0.91
+      ],
+      "intersections": 51
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.42,
+        -0.86
+      ],
+      "intersections": 343
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.45,
+        -1.01
+      ],
+      "intersections": 1376
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.45,
+        -1.06
+      ],
+      "intersections": 2376
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.45,
+        -0.96
+      ],
+      "intersections": 383
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.45,
+        -1.11
+      ],
+      "intersections": 3904
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.45,
+        -0.91
+      ],
+      "intersections": 90
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.45,
+        -0.86
+      ],
+      "intersections": 397
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.48,
+        -1.01
+      ],
+      "intersections": 1970
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.48,
+        -1.06
+      ],
+      "intersections": 3012
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.48,
+        -0.96
+      ],
+      "intersections": 1223
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.48,
+        -1.11
+      ],
+      "intersections": 4147
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.48,
+        -0.91
+      ],
+      "intersections": 660
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.48,
+        -0.86
+      ],
+      "intersections": 416
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.51,
+        -1.01
+      ],
+      "intersections": 3280
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.51,
+        -1.06
+      ],
+      "intersections": 3923
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.51,
+        -0.96
+      ],
+      "intersections": 2472
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.51,
+        -1.11
+      ],
+      "intersections": 4497
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.51,
+        -0.91
+      ],
+      "intersections": 1686
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.51,
+        -0.86
+      ],
+      "intersections": 1281
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.54,
+        -1.01
+      ],
+      "intersections": 3902
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.54,
+        -1.06
+      ],
+      "intersections": 4591
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.54,
+        -0.96
+      ],
+      "intersections": 3448
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.54,
+        -1.11
+      ],
+      "intersections": 4354
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.54,
+        -0.91
+      ],
+      "intersections": 2884
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.54,
+        -0.86
+      ],
+      "intersections": 2506
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.39,
+        -1.01
+      ],
+      "intersections": 734
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.39,
+        -1.06
+      ],
+      "intersections": 1415
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.39,
+        -0.96
+      ],
+      "intersections": 290
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.39,
+        -1.11
+      ],
+      "intersections": 2195
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.39,
+        -0.91
+      ],
+      "intersections": 203
+    },
+    {
+      "scale": 0.95,
+      "mount": [
+        0.0,
+        0.39,
+        -0.86
+      ],
+      "intersections": 461
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.42,
+        -1.01
+      ],
+      "intersections": 470
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.42,
+        -1.06
+      ],
+      "intersections": 1202
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.42,
+        -0.96
+      ],
+      "intersections": 80
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.42,
+        -1.11
+      ],
+      "intersections": 2523
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.42,
+        -0.91
+      ],
+      "intersections": 42
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.42,
+        -0.86
+      ],
+      "intersections": 152
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.45,
+        -1.01
+      ],
+      "intersections": 400
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.45,
+        -1.06
+      ],
+      "intersections": 1564
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.45,
+        -0.96
+      ],
+      "intersections": 92
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.45,
+        -1.11
+      ],
+      "intersections": 2933
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.45,
+        -0.91
+      ],
+      "intersections": 20
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.45,
+        -0.86
+      ],
+      "intersections": 129
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.48,
+        -1.01
+      ],
+      "intersections": 1264
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.48,
+        -1.06
+      ],
+      "intersections": 2418
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.48,
+        -0.96
+      ],
+      "intersections": 527
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.48,
+        -1.11
+      ],
+      "intersections": 3314
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.48,
+        -0.91
+      ],
+      "intersections": 90
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.48,
+        -0.86
+      ],
+      "intersections": 215
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.51,
+        -1.01
+      ],
+      "intersections": 2430
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.51,
+        -1.06
+      ],
+      "intersections": 3187
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.51,
+        -0.96
+      ],
+      "intersections": 1538
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.51,
+        -1.11
+      ],
+      "intersections": 3758
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.51,
+        -0.91
+      ],
+      "intersections": 838
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.51,
+        -0.86
+      ],
+      "intersections": 279
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.54,
+        -1.01
+      ],
+      "intersections": 3292
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.54,
+        -1.06
+      ],
+      "intersections": 3879
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.54,
+        -0.96
+      ],
+      "intersections": 2665
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.54,
+        -1.11
+      ],
+      "intersections": 4520
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.54,
+        -0.91
+      ],
+      "intersections": 2156
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.54,
+        -0.86
+      ],
+      "intersections": 1297
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.39,
+        -1.01
+      ],
+      "intersections": 472
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.39,
+        -1.06
+      ],
+      "intersections": 1096
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.39,
+        -0.96
+      ],
+      "intersections": 232
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.39,
+        -1.11
+      ],
+      "intersections": 1564
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.39,
+        -0.91
+      ],
+      "intersections": 171
+    },
+    {
+      "scale": 0.9,
+      "mount": [
+        0.0,
+        0.39,
+        -0.86
+      ],
+      "intersections": 215
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.42,
+        -1.01
+      ],
+      "intersections": 324
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.42,
+        -1.06
+      ],
+      "intersections": 819
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.42,
+        -0.96
+      ],
+      "intersections": 78
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.42,
+        -1.11
+      ],
+      "intersections": 1674
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.42,
+        -0.91
+      ],
+      "intersections": 42
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.42,
+        -0.86
+      ],
+      "intersections": 60
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.45,
+        -1.01
+      ],
+      "intersections": 177
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.45,
+        -1.06
+      ],
+      "intersections": 817
+    },
+    {
+      "scale": 0.85,
+      "mount": [
+        0.0,
+        0.45,
+        -0.96
+      ],
+      "intersections": 0
+    }
+  ],
+  "method": "BVHTree triangle overlap against all retained original triangles; no car geometry modified. Tests surface intersections, not engineering tolerances."
+}
